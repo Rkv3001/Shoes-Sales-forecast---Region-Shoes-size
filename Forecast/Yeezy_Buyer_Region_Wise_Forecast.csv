@@ -1,0 +1,307 @@
+Month,Brand_name,Buyer_Region,Forecast_value,Low,High
+1,Yeezy,Alabama,36.0,18.0,54.0
+2,Yeezy,Alabama,36.0,16.0,56.0
+3,Yeezy,Alabama,36.0,14.0,58.0
+4,Yeezy,Alabama,36.0,12.0,60.0
+5,Yeezy,Alabama,36.0,11.0,61.0
+6,Yeezy,Alabama,36.0,9.0,63.0
+1,Yeezy,Alaska,3.0,-1.0,7.0
+2,Yeezy,Alaska,3.0,-1.0,7.0
+3,Yeezy,Alaska,3.0,-2.0,8.0
+4,Yeezy,Alaska,3.0,-2.0,8.0
+5,Yeezy,Alaska,3.0,-3.0,9.0
+6,Yeezy,Alaska,3.0,-3.0,9.0
+1,Yeezy,Arizona,74.0,23.0,125.0
+2,Yeezy,Arizona,74.0,17.0,131.0
+3,Yeezy,Arizona,74.0,12.0,136.0
+4,Yeezy,Arizona,74.0,7.0,141.0
+5,Yeezy,Arizona,74.0,2.0,146.0
+6,Yeezy,Arizona,74.0,-2.0,150.0
+1,Yeezy,Arkansas,12.0,6.0,18.0
+2,Yeezy,Arkansas,12.0,5.0,19.0
+3,Yeezy,Arkansas,12.0,4.0,20.0
+4,Yeezy,Arkansas,12.0,4.0,20.0
+5,Yeezy,Arkansas,12.0,3.0,21.0
+6,Yeezy,Arkansas,12.0,3.0,21.0
+1,Yeezy,California,1044.0,446.0,1642.0
+2,Yeezy,California,1044.0,378.0,1710.0
+3,Yeezy,California,1044.0,316.0,1772.0
+4,Yeezy,California,1044.0,259.0,1829.0
+5,Yeezy,California,1044.0,206.0,1882.0
+6,Yeezy,California,1044.0,156.0,1932.0
+1,Yeezy,Colorado,48.0,10.0,86.0
+2,Yeezy,Colorado,48.0,6.0,90.0
+3,Yeezy,Colorado,48.0,2.0,94.0
+4,Yeezy,Colorado,48.0,-2.0,98.0
+5,Yeezy,Colorado,48.0,-5.0,101.0
+6,Yeezy,Colorado,48.0,-8.0,104.0
+1,Yeezy,Connecticut,62.0,11.0,113.0
+2,Yeezy,Connecticut,62.0,5.0,119.0
+3,Yeezy,Connecticut,62.0,-0.0,124.0
+4,Yeezy,Connecticut,62.0,-5.0,129.0
+5,Yeezy,Connecticut,62.0,-10.0,134.0
+6,Yeezy,Connecticut,62.0,-14.0,138.0
+1,Yeezy,Delaware,122.0,53.0,191.0
+2,Yeezy,Delaware,122.0,46.0,198.0
+3,Yeezy,Delaware,122.0,39.0,205.0
+4,Yeezy,Delaware,122.0,32.0,212.0
+5,Yeezy,Delaware,122.0,26.0,218.0
+6,Yeezy,Delaware,122.0,20.0,224.0
+1,Yeezy,District of Columbia,15.0,3.0,27.0
+2,Yeezy,District of Columbia,15.0,2.0,28.0
+3,Yeezy,District of Columbia,15.0,1.0,29.0
+4,Yeezy,District of Columbia,15.0,-1.0,31.0
+5,Yeezy,District of Columbia,15.0,-2.0,32.0
+6,Yeezy,District of Columbia,15.0,-3.0,33.0
+1,Yeezy,Florida,374.0,127.0,621.0
+2,Yeezy,Florida,374.0,98.0,650.0
+3,Yeezy,Florida,374.0,73.0,675.0
+4,Yeezy,Florida,374.0,49.0,699.0
+5,Yeezy,Florida,374.0,28.0,720.0
+6,Yeezy,Florida,374.0,7.0,741.0
+1,Yeezy,Georgia,103.0,28.0,178.0
+2,Yeezy,Georgia,103.0,19.0,187.0
+3,Yeezy,Georgia,103.0,11.0,195.0
+4,Yeezy,Georgia,103.0,4.0,202.0
+5,Yeezy,Georgia,103.0,-3.0,209.0
+6,Yeezy,Georgia,103.0,-9.0,215.0
+1,Yeezy,Hawaii,13.0,-1.0,27.0
+2,Yeezy,Hawaii,13.0,-2.0,28.0
+3,Yeezy,Hawaii,13.0,-4.0,30.0
+4,Yeezy,Hawaii,13.0,-5.0,31.0
+5,Yeezy,Hawaii,13.0,-6.0,32.0
+6,Yeezy,Hawaii,13.0,-8.0,34.0
+1,Yeezy,Idaho,8.0,3.0,13.0
+2,Yeezy,Idaho,8.0,2.0,14.0
+3,Yeezy,Idaho,8.0,2.0,14.0
+4,Yeezy,Idaho,8.0,1.0,15.0
+5,Yeezy,Idaho,8.0,1.0,15.0
+6,Yeezy,Idaho,8.0,0.0,16.0
+1,Yeezy,Illinois,200.0,57.0,343.0
+2,Yeezy,Illinois,200.0,41.0,359.0
+3,Yeezy,Illinois,200.0,27.0,373.0
+4,Yeezy,Illinois,200.0,13.0,387.0
+5,Yeezy,Illinois,200.0,0.0,400.0
+6,Yeezy,Illinois,200.0,-11.0,411.0
+1,Yeezy,Indiana,68.0,24.0,112.0
+2,Yeezy,Indiana,68.0,20.0,116.0
+3,Yeezy,Indiana,68.0,15.0,121.0
+4,Yeezy,Indiana,68.0,11.0,125.0
+5,Yeezy,Indiana,68.0,7.0,129.0
+6,Yeezy,Indiana,68.0,3.0,133.0
+1,Yeezy,Iowa,20.0,3.0,37.0
+2,Yeezy,Iowa,20.0,1.0,39.0
+3,Yeezy,Iowa,20.0,-0.0,40.0
+4,Yeezy,Iowa,20.0,-2.0,42.0
+5,Yeezy,Iowa,20.0,-3.0,43.0
+6,Yeezy,Iowa,20.0,-5.0,45.0
+1,Yeezy,Kansas,24.0,10.0,38.0
+2,Yeezy,Kansas,24.0,8.0,40.0
+3,Yeezy,Kansas,24.0,7.0,41.0
+4,Yeezy,Kansas,24.0,6.0,42.0
+5,Yeezy,Kansas,24.0,4.0,44.0
+6,Yeezy,Kansas,24.0,3.0,45.0
+1,Yeezy,Kentucky,31.0,8.0,54.0
+2,Yeezy,Kentucky,31.0,6.0,56.0
+3,Yeezy,Kentucky,31.0,3.0,59.0
+4,Yeezy,Kentucky,31.0,1.0,61.0
+5,Yeezy,Kentucky,31.0,-1.0,63.0
+6,Yeezy,Kentucky,31.0,-3.0,65.0
+1,Yeezy,Louisiana,29.0,4.0,54.0
+2,Yeezy,Louisiana,29.0,1.0,57.0
+3,Yeezy,Louisiana,29.0,-1.0,59.0
+4,Yeezy,Louisiana,29.0,-4.0,62.0
+5,Yeezy,Louisiana,29.0,-6.0,64.0
+6,Yeezy,Louisiana,29.0,-8.0,66.0
+1,Yeezy,Maine,7.0,-0.0,14.0
+2,Yeezy,Maine,7.0,-1.0,15.0
+3,Yeezy,Maine,7.0,-2.0,16.0
+4,Yeezy,Maine,7.0,-3.0,17.0
+5,Yeezy,Maine,7.0,-3.0,17.0
+6,Yeezy,Maine,7.0,-4.0,18.0
+1,Yeezy,Maryland,121.0,49.0,193.0
+2,Yeezy,Maryland,121.0,41.0,201.0
+3,Yeezy,Maryland,121.0,33.0,209.0
+4,Yeezy,Maryland,121.0,27.0,215.0
+5,Yeezy,Maryland,121.0,20.0,222.0
+6,Yeezy,Maryland,121.0,14.0,228.0
+1,Yeezy,Massachusetts,168.0,54.0,282.0
+2,Yeezy,Massachusetts,168.0,41.0,295.0
+3,Yeezy,Massachusetts,168.0,29.0,307.0
+4,Yeezy,Massachusetts,168.0,18.0,318.0
+5,Yeezy,Massachusetts,168.0,8.0,328.0
+6,Yeezy,Massachusetts,168.0,-2.0,338.0
+1,Yeezy,Michigan,177.0,63.0,291.0
+2,Yeezy,Michigan,177.0,50.0,304.0
+3,Yeezy,Michigan,177.0,38.0,316.0
+4,Yeezy,Michigan,177.0,27.0,327.0
+5,Yeezy,Michigan,177.0,17.0,337.0
+6,Yeezy,Michigan,177.0,8.0,346.0
+1,Yeezy,Minnesota,45.0,18.0,72.0
+2,Yeezy,Minnesota,45.0,15.0,75.0
+3,Yeezy,Minnesota,45.0,12.0,78.0
+4,Yeezy,Minnesota,45.0,10.0,80.0
+5,Yeezy,Minnesota,45.0,7.0,83.0
+6,Yeezy,Minnesota,45.0,5.0,85.0
+1,Yeezy,Mississippi,9.0,0.0,18.0
+2,Yeezy,Mississippi,9.0,-1.0,19.0
+3,Yeezy,Mississippi,9.0,-1.0,19.0
+4,Yeezy,Mississippi,9.0,-2.0,20.0
+5,Yeezy,Mississippi,9.0,-3.0,21.0
+6,Yeezy,Mississippi,9.0,-4.0,22.0
+1,Yeezy,Missouri,43.0,15.0,71.0
+2,Yeezy,Missouri,43.0,11.0,75.0
+3,Yeezy,Missouri,43.0,8.0,78.0
+4,Yeezy,Missouri,43.0,6.0,80.0
+5,Yeezy,Missouri,43.0,3.0,83.0
+6,Yeezy,Missouri,43.0,1.0,85.0
+1,Yeezy,Montana,3.0,0.0,6.0
+2,Yeezy,Montana,3.0,0.0,6.0
+3,Yeezy,Montana,3.0,-0.0,6.0
+4,Yeezy,Montana,3.0,-0.0,6.0
+5,Yeezy,Montana,3.0,-1.0,7.0
+6,Yeezy,Montana,3.0,-1.0,7.0
+1,Yeezy,Nebraska,16.0,3.0,29.0
+2,Yeezy,Nebraska,16.0,2.0,30.0
+3,Yeezy,Nebraska,16.0,0.0,32.0
+4,Yeezy,Nebraska,16.0,-1.0,33.0
+5,Yeezy,Nebraska,16.0,-2.0,34.0
+6,Yeezy,Nebraska,16.0,-3.0,35.0
+1,Yeezy,Nevada,47.0,19.0,75.0
+2,Yeezy,Nevada,47.0,15.0,79.0
+3,Yeezy,Nevada,47.0,12.0,82.0
+4,Yeezy,Nevada,47.0,10.0,84.0
+5,Yeezy,Nevada,47.0,7.0,87.0
+6,Yeezy,Nevada,47.0,5.0,89.0
+1,Yeezy,New Hampshire,14.0,4.0,24.0
+2,Yeezy,New Hampshire,14.0,3.0,25.0
+3,Yeezy,New Hampshire,14.0,2.0,26.0
+4,Yeezy,New Hampshire,14.0,1.0,27.0
+5,Yeezy,New Hampshire,14.0,0.0,28.0
+6,Yeezy,New Hampshire,14.0,-0.0,28.0
+1,Yeezy,New Jersey,276.0,76.0,476.0
+2,Yeezy,New Jersey,276.0,53.0,499.0
+3,Yeezy,New Jersey,276.0,32.0,520.0
+4,Yeezy,New Jersey,276.0,13.0,539.0
+5,Yeezy,New Jersey,276.0,-4.0,556.0
+6,Yeezy,New Jersey,276.0,-21.0,573.0
+1,Yeezy,New Mexico,14.0,5.0,23.0
+2,Yeezy,New Mexico,14.0,4.0,24.0
+3,Yeezy,New Mexico,14.0,3.0,25.0
+4,Yeezy,New Mexico,14.0,3.0,25.0
+5,Yeezy,New Mexico,14.0,2.0,26.0
+6,Yeezy,New Mexico,14.0,1.0,27.0
+1,Yeezy,New York,987.0,388.0,1586.0
+2,Yeezy,New York,987.0,320.0,1654.0
+3,Yeezy,New York,987.0,258.0,1716.0
+4,Yeezy,New York,987.0,201.0,1773.0
+5,Yeezy,New York,987.0,148.0,1826.0
+6,Yeezy,New York,987.0,98.0,1876.0
+1,Yeezy,North Carolina,78.0,26.0,130.0
+2,Yeezy,North Carolina,78.0,20.0,136.0
+3,Yeezy,North Carolina,78.0,14.0,142.0
+4,Yeezy,North Carolina,78.0,10.0,146.0
+5,Yeezy,North Carolina,78.0,5.0,151.0
+6,Yeezy,North Carolina,78.0,1.0,155.0
+1,Yeezy,North Dakota,4.0,1.0,7.0
+2,Yeezy,North Dakota,4.0,1.0,7.0
+3,Yeezy,North Dakota,4.0,0.0,8.0
+4,Yeezy,North Dakota,4.0,-0.0,8.0
+5,Yeezy,North Dakota,4.0,-0.0,8.0
+6,Yeezy,North Dakota,4.0,-1.0,9.0
+1,Yeezy,Ohio,109.0,34.0,184.0
+2,Yeezy,Ohio,109.0,26.0,192.0
+3,Yeezy,Ohio,109.0,18.0,200.0
+4,Yeezy,Ohio,109.0,11.0,207.0
+5,Yeezy,Ohio,109.0,4.0,214.0
+6,Yeezy,Ohio,109.0,-2.0,220.0
+1,Yeezy,Oklahoma,20.0,3.0,37.0
+2,Yeezy,Oklahoma,20.0,1.0,39.0
+3,Yeezy,Oklahoma,20.0,-1.0,41.0
+4,Yeezy,Oklahoma,20.0,-2.0,42.0
+5,Yeezy,Oklahoma,20.0,-4.0,44.0
+6,Yeezy,Oklahoma,20.0,-5.0,45.0
+1,Yeezy,Oregon,694.0,372.0,1016.0
+2,Yeezy,Oregon,694.0,336.0,1052.0
+3,Yeezy,Oregon,694.0,303.0,1085.0
+4,Yeezy,Oregon,694.0,272.0,1116.0
+5,Yeezy,Oregon,694.0,244.0,1144.0
+6,Yeezy,Oregon,694.0,217.0,1171.0
+1,Yeezy,Pennsylvania,195.0,66.0,324.0
+2,Yeezy,Pennsylvania,195.0,51.0,339.0
+3,Yeezy,Pennsylvania,195.0,38.0,352.0
+4,Yeezy,Pennsylvania,195.0,25.0,365.0
+5,Yeezy,Pennsylvania,195.0,14.0,376.0
+6,Yeezy,Pennsylvania,195.0,3.0,387.0
+1,Yeezy,Rhode Island,22.0,6.0,38.0
+2,Yeezy,Rhode Island,22.0,4.0,40.0
+3,Yeezy,Rhode Island,22.0,2.0,42.0
+4,Yeezy,Rhode Island,22.0,1.0,43.0
+5,Yeezy,Rhode Island,22.0,-0.0,44.0
+6,Yeezy,Rhode Island,22.0,-2.0,46.0
+1,Yeezy,South Carolina,37.0,10.0,64.0
+2,Yeezy,South Carolina,37.0,7.0,67.0
+3,Yeezy,South Carolina,37.0,4.0,70.0
+4,Yeezy,South Carolina,37.0,1.0,73.0
+5,Yeezy,South Carolina,37.0,-1.0,75.0
+6,Yeezy,South Carolina,37.0,-3.0,77.0
+1,Yeezy,South Dakota,3.0,-0.0,6.0
+2,Yeezy,South Dakota,3.0,-1.0,7.0
+3,Yeezy,South Dakota,3.0,-1.0,7.0
+4,Yeezy,South Dakota,3.0,-1.0,7.0
+5,Yeezy,South Dakota,3.0,-1.0,7.0
+6,Yeezy,South Dakota,3.0,-2.0,8.0
+1,Yeezy,Tennessee,41.0,6.0,76.0
+2,Yeezy,Tennessee,41.0,2.0,80.0
+3,Yeezy,Tennessee,41.0,-1.0,83.0
+4,Yeezy,Tennessee,41.0,-5.0,87.0
+5,Yeezy,Tennessee,41.0,-8.0,90.0
+6,Yeezy,Tennessee,41.0,-11.0,93.0
+1,Yeezy,Texas,347.0,87.0,607.0
+2,Yeezy,Texas,347.0,58.0,636.0
+3,Yeezy,Texas,347.0,31.0,663.0
+4,Yeezy,Texas,347.0,6.0,688.0
+5,Yeezy,Texas,347.0,-17.0,711.0
+6,Yeezy,Texas,347.0,-39.0,733.0
+1,Yeezy,Utah,18.0,1.0,35.0
+2,Yeezy,Utah,18.0,-1.0,37.0
+3,Yeezy,Utah,18.0,-2.0,38.0
+4,Yeezy,Utah,18.0,-4.0,40.0
+5,Yeezy,Utah,18.0,-5.0,41.0
+6,Yeezy,Utah,18.0,-7.0,43.0
+1,Yeezy,Vermont,3.0,-0.0,6.0
+2,Yeezy,Vermont,3.0,-0.0,6.0
+3,Yeezy,Vermont,3.0,-1.0,7.0
+4,Yeezy,Vermont,3.0,-1.0,7.0
+5,Yeezy,Vermont,3.0,-1.0,7.0
+6,Yeezy,Vermont,3.0,-1.0,7.0
+1,Yeezy,Virginia,106.0,37.0,175.0
+2,Yeezy,Virginia,106.0,29.0,183.0
+3,Yeezy,Virginia,106.0,22.0,190.0
+4,Yeezy,Virginia,106.0,15.0,197.0
+5,Yeezy,Virginia,106.0,9.0,203.0
+6,Yeezy,Virginia,106.0,3.0,209.0
+1,Yeezy,Washington,87.0,24.0,150.0
+2,Yeezy,Washington,87.0,16.0,158.0
+3,Yeezy,Washington,87.0,10.0,164.0
+4,Yeezy,Washington,87.0,4.0,170.0
+5,Yeezy,Washington,87.0,-2.0,176.0
+6,Yeezy,Washington,87.0,-7.0,181.0
+1,Yeezy,West Virginia,13.0,4.0,22.0
+2,Yeezy,West Virginia,13.0,3.0,23.0
+3,Yeezy,West Virginia,13.0,2.0,24.0
+4,Yeezy,West Virginia,13.0,1.0,25.0
+5,Yeezy,West Virginia,13.0,0.0,26.0
+6,Yeezy,West Virginia,13.0,-0.0,26.0
+1,Yeezy,Wisconsin,43.0,11.0,75.0
+2,Yeezy,Wisconsin,43.0,7.0,79.0
+3,Yeezy,Wisconsin,43.0,4.0,82.0
+4,Yeezy,Wisconsin,43.0,1.0,85.0
+5,Yeezy,Wisconsin,43.0,-2.0,88.0
+6,Yeezy,Wisconsin,43.0,-5.0,91.0
+1,Yeezy,Wyoming,4.0,2.0,6.0
+2,Yeezy,Wyoming,4.0,1.0,7.0
+3,Yeezy,Wyoming,4.0,1.0,7.0
+4,Yeezy,Wyoming,4.0,1.0,7.0
+5,Yeezy,Wyoming,4.0,1.0,7.0
+6,Yeezy,Wyoming,4.0,1.0,7.0
